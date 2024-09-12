@@ -1,9 +1,60 @@
-<h1 align="center">Hi 👋, I'm Marcelo Malte</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Marcelo Malte Noguera
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💫 About Me
+¡Hola! Soy Marcelo Malte Noguera, un **Analista de Datos** e **Ingeniero en Telecomunicaciones** con experiencia en el manejo de grandes volúmenes de datos. Especializado en **Python, Power BI, Excel y SQL**, me dedico a la visualización y el análisis profundo de datos. Además, tengo habilidades en **ciberseguridad, programación y soporte técnico**. Actualmente, estoy cursando un **Bootcamp en Análisis de Datos** para profundizar mis conocimientos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📞 **Contacto:** +593 990953891  
+✉️ **Email:** marcelomalte23@gmail.com  
+🌍 **Ubicación:** Ibarra, Ecuador  
+🔗 **GitHub:** [Marcelo-Malte](https://github.com/Marcelo-Malte)
+
+## 📚 Educación
+- **Ingeniería en Telecomunicaciones** | Universidad Técnica del Norte (Oct 2017 - Mar 2024)
+- **Data Analyst** | Tripleten (Bootcamp Online) (May 2024 - Actualidad)
+
+## 💼 Experiencia Laboral
+- **Técnico de Soporte** | Omegatelcom S.A (Sep 2022 - Ago 2023)
+  - Despliegue de red de fibra óptica
+  - Instalación y configuración de equipos al cliente
+  - Soporte técnico y atención al cliente
+
+- **Asistente Administrativo** | Omegatelcom S.A (Sep 2023 - May 2024)
+  - Gestión de facturación
+  - Análisis de Datos y reporting
+
+- **Data Analyst** | Tripleten (Bootcamp Online) (May 2024 - Actualidad)
+  - Manipulación de datos (limpieza, transformación, filtrado, agrupación, visualización)
+  - Análisis estadísticos (descriptiva, probabilidad, prueba de hipótesis)
+  - Análisis de negocios (métricas de usuarios, ventas, marketing)
+  - Pronósticos y predicciones (algoritmos de machine learning)
+
+## 🎓 Certificaciones
+- **Fortinet**: NS1, NS2, Fundamentals in Cybersecurity (2023)
+- **Microsoft**: Power User IT Pro Microsoft 365 (2020), Fundamentos de Redes (2021), Azure AI Fundamentals (2024)
+- **Cisco**: Introducción a IoT, Introducción a la Seguridad Cibernética (2021), Introduction to Cybersecurity, Introduction to Data Science (2024)
+- **Otros**: Inglés B1 (2020), Ciberseguridad (2023), Excel y Power BI (2024), Hacking Ético Gamificado (2024)
+
+## 🛠️ Tech Stack
+- **Programación y Software:** Linux, Windows, Java, C++, MySQL, PostgreSQL, VirtualBox, VMware, VS Code
+- **Ofimática:** Microsoft Office Suite (Word, Excel, PowerPoint), Microsoft 365 (Outlook, OneDrive, SharePoint, Teams)
+- **Análisis de Datos:** Excel, Google Sheets, Power BI, Tableau, SQL, Dash, Python (pandas, numpy, matplotlib, seaborn, scipy, scikit-learn)
+
+## 🌐 Portfolio
+Te invito a explorar mi portafolio donde encontrarás algunos de mis proyectos más interesantes:
+
+- **[Financial Fraud Detection](#)**
+  - Proyecto para identificar transacciones fraudulentas en una base de datos masiva.
+
+- **[Telecom Churn Prediction](#)**
+  - Pronóstico de la tasa de cancelación de clientes para una empresa de telecomunicaciones.
+
+- **[Online Fashion Store Dashboard](#)**
+  - Dashboard para analizar y mejorar el rendimiento de una tienda online de moda en Brasil.
+
+## 💬 Socials
+- **LinkedIn:** [Marcelo Malte](https://www.linkedin.com/in/marcelo-malte)
+
+---
+
+¡Espero que disfrutes explorando mi perfil y mis proyectos! 🚀
+
