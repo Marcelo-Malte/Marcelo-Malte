@@ -14,7 +14,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 
 ### Ofimática
-![Microsoft Office Suite](https://img.shields.io/badge/Microsoft_Office_ Suite-D83B01?style=flat&logo=microsoft-office&logoColor=white) 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-000000?style=flat&logo=microsoft-office&logoColor=white) 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0067B8?style=flat&logo=microsoft-office&logoColor=white) 
 
