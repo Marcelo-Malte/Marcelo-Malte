@@ -45,7 +45,7 @@ Te invito a explorar mi portafolio donde encontrarás algunos de mis proyectos m
   - Dashboard para analizar y mejorar el rendimiento de una tienda online de moda en Brasil.
 
 ## 💬 Socials
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Marcelo Malte](https://www.linkedin.com/in/marcelo-malte)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Marcelo Malte](www.linkedin.com/in/marcelo-malte-299157285)
 
 
 ---
