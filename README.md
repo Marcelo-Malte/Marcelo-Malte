@@ -1,43 +1,36 @@
-# Marcelo Malte Noguera
-
 ## 💫 About Me
 ¡Hola! Soy Marcelo Malte Noguera, un **Analista de Datos** e **Ingeniero en Telecomunicaciones** con experiencia en el manejo de grandes volúmenes de datos. Especializado en **Python, Power BI, Excel y SQL**, me dedico a la visualización y el análisis profundo de datos. Además, tengo habilidades en **ciberseguridad, programación y soporte técnico**. Actualmente, estoy cursando un **Bootcamp en Análisis de Datos** para profundizar mis conocimientos.
 
-📞 **Contacto:** +593 990953891  
-✉️ **Email:** marcelomalte23@gmail.com  
-🌍 **Ubicación:** Ibarra, Ecuador  
-🔗 **GitHub:** [Marcelo-Malte](https://github.com/Marcelo-Malte)
-
-## 📚 Educación
-- **Ingeniería en Telecomunicaciones** | Universidad Técnica del Norte (Oct 2017 - Mar 2024)
-- **Data Analyst** | Tripleten (Bootcamp Online) (May 2024 - Actualidad)
-
-## 💼 Experiencia Laboral
-- **Técnico de Soporte** | Omegatelcom S.A (Sep 2022 - Ago 2023)
-  - Despliegue de red de fibra óptica
-  - Instalación y configuración de equipos al cliente
-  - Soporte técnico y atención al cliente
-
-- **Asistente Administrativo** | Omegatelcom S.A (Sep 2023 - May 2024)
-  - Gestión de facturación
-  - Análisis de Datos y reporting
-
-- **Data Analyst** | Tripleten (Bootcamp Online) (May 2024 - Actualidad)
-  - Manipulación de datos (limpieza, transformación, filtrado, agrupación, visualización)
-  - Análisis estadísticos (descriptiva, probabilidad, prueba de hipótesis)
-  - Análisis de negocios (métricas de usuarios, ventas, marketing)
-  - Pronósticos y predicciones (algoritmos de machine learning)
-
-## 🎓 Certificaciones
-- **Fortinet**: NS1, NS2, Fundamentals in Cybersecurity (2023)
-- **Microsoft**: Power User IT Pro Microsoft 365 (2020), Fundamentos de Redes (2021), Azure AI Fundamentals (2024)
-- **Cisco**: Introducción a IoT, Introducción a la Seguridad Cibernética (2021), Introduction to Cybersecurity, Introduction to Data Science (2024)
-- **Otros**: Inglés B1 (2020), Ciberseguridad (2023), Excel y Power BI (2024), Hacking Ético Gamificado (2024)
-
 ## 🛠️ Tech Stack
-- **Programación y Software:** Linux, Windows, Java, C++, MySQL, PostgreSQL, VirtualBox, VMware, VS Code
-- **Ofimática:** Microsoft Office Suite (Word, Excel, PowerPoint), Microsoft 365 (Outlook, OneDrive, SharePoint, Teams)
-- **Análisis de Datos:** Excel, Google Sheets, Power BI, Tableau, SQL, Dash, Python (pandas, numpy, matplotlib, seaborn, scipy, scikit-learn)
+### Programación y Software
+![Programming and Software](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) 
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white) 
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+
+### Ofimática
+![Microsoft Office Suite](https://img.shields.io/badge/Microsoft_Office_ Suite-D83B01?style=flat&logo=microsoft-office&logoColor=white) 
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0067B8?style=flat&logo=microsoft-office&logoColor=white) 
+
+### Análisis de Datos
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-4285F4?style=flat&logo=google-sheets&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sql&logoColor=white) 
+![Dash](https://img.shields.io/badge/Dash-000000?style=flat&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-115570?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=flat&logo=python&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-8A2C2C?style=flat&logo=scipy&logoColor=white) 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
 
 ## 🌐 Portfolio
 Te invito a explorar mi portafolio donde encontrarás algunos de mis proyectos más interesantes:
