@@ -1,5 +1,5 @@
 ## 💫 About Me
-¡Hola! Soy Marcelo Malte Noguera, un **Analista de Datos** e **Ingeniero en Telecomunicaciones** con experiencia en el manejo de grandes volúmenes de datos. Especializado en **Python, Power BI, Excel y SQL**, me dedico a la visualización y el análisis profundo de datos. Además, tengo habilidades en **ciberseguridad, programación y soporte técnico**. Actualmente, estoy cursando un **Bootcamp en Análisis de Datos** para profundizar mis conocimientos.
+¡Hola! Soy Marcelo Malte Noguera, un **Analista de Datos** e **Ingeniero en Telecomunicaciones** con experiencia en el manejo de grandes volúmenes de datos. Especializado en **Python, Power BI, Excel y SQL**, me dedico a la visualización y el análisis profundo de datos. Además, tengo habilidades en **ciberseguridad, programación y soporte técnico**.
 
 ## 🛠️ Tech Stack
 ### Programación y Software
