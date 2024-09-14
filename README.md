@@ -38,15 +38,13 @@ Mi enfoque está en aplicar técnicas avanzadas de visualización y análisis pa
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
 
 ## 🌐 Portfolio
-Te invito a explorar mi portafolio donde encontrarás algunos de mis proyectos más interesantes:
-
 Aquí te presento algunos de mis proyectos más destacados:
 
 | **Proyecto** | **Descripción** | **Tecnologías** |
 | ------------ | ---------------- | --------------- |
-| ![img](https://via.placeholder.com/100) | **[Análisis de Tarifas para Empresa de Telecomunicaciones](#)** <br> Analicé datos de clientes para comparar planes de prepago y respaldar decisiones comerciales con pruebas estadísticas. | Python, pandas, numpy, matplotlib, seaborn |
-| ![img](https://via.placeholder.com/100) | **[Telecom Churn Prediction](#)** <br> Predije la tasa de cancelación de clientes utilizando modelos de machine learning y análisis predictivo. | Python, scikit-learn, pandas, matplotlib |
-| ![img](https://via.placeholder.com/100) | **[Online Fashion Store Dashboard](#)** <br> Creé un dashboard interactivo para analizar las ventas de una tienda de moda online. | Power BI, SQL, Tableau |
+| ![img](https://via.placeholder.com/100) | **[Análisis de Tarifas para Empresa de Telecomunicaciones](#)** <br> Se analizó el comportamiento de clientes para comparar planes de prepago y respaldar decisiones comerciales con pruebas estadísticas. | Python, pandas, numpy, matplotlib, seaborn, scipy |
+| ![img](https://via.placeholder.com/100) | **[Análisis del Comportamiento de Usuarios en Aplicación de Productos](#)** <br> Análisis del embudo de ventas de una aplicación para identificar abandono del proceso de compra y evaluar un test A/A/B. | Python, pandas, matplotlib, scipy, análisis de embudo, A/A/B |
+| ![img](https://via.placeholder.com/100) | **[Análisis de Ventas de Videojuegos](#)** <br> Análisis de ventas y reseñas de videojuegos para identificar patrones de éxito y realizar pruebas de hipótesis sobre las calificaciones entre plataformas y géneros. | Python, pandas, numpy, matplotlib, seaborn, scipy |
 
 
 ## 💬 Socials
