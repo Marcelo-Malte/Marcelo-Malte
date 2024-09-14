@@ -1,5 +1,10 @@
 ## 💫 About Me
-¡Hola! Soy Marcelo Malte Noguera, un **Analista de Datos** e **Ingeniero en Telecomunicaciones** con experiencia en el manejo de grandes volúmenes de datos. Especializado en **Python, Power BI, Excel y SQL**, me dedico a la visualización y el análisis profundo de datos. Además, tengo habilidades en **ciberseguridad, programación y soporte técnico**.
+¡Hola! Soy **Marcelo Malte Noguera**, un **Analista de Datos** e **Ingeniero en Telecomunicaciones** apasionado por el análisis de grandes volúmenes de datos y la ciberseguridad. Con experiencia en herramientas como **Python, Power BI, Excel y SQL**.
+Mi enfoque está en aplicar técnicas avanzadas de visualización y análisis para impulsar decisiones estratégicas. También tengo un fuerte interés en el **hacking ético** y la **ciberseguridad**, siempre en busca de aprender y mejorar, me entusiasma colaborar en proyectos desafiantes.
+
+- 🔍 **Intereses actuales:** Análisis de datos, Ciberseguridad, IoT.
+- 🚀 **Experiencia:** Análisis estadístico, visualización de datos, soporte técnico.
+- 🛡️ **Certificaciones:** Azure AI Fundamentals, Fortinet, Networking Fundamentals, Junior Cybersecurity, Ethical Hacking.
 
 ## 🛠️ Tech Stack
 ### Programación y Software
@@ -35,14 +40,14 @@
 ## 🌐 Portfolio
 Te invito a explorar mi portafolio donde encontrarás algunos de mis proyectos más interesantes:
 
-- **[Financial Fraud Detection](#)**
-  - Proyecto para identificar transacciones fraudulentas en una base de datos masiva.
+Aquí te presento algunos de mis proyectos más destacados:
 
-- **[Telecom Churn Prediction](#)**
-  - Pronóstico de la tasa de cancelación de clientes para una empresa de telecomunicaciones.
+| **Proyecto** | **Descripción** | **Tecnologías** |
+| ------------ | ---------------- | --------------- |
+| ![img](https://via.placeholder.com/100) | **[Análisis de Tarifas para Empresa de Telecomunicaciones](#)** <br> Analicé datos de clientes para comparar planes de prepago y respaldar decisiones comerciales con pruebas estadísticas. | Python, pandas, numpy, matplotlib, seaborn |
+| ![img](https://via.placeholder.com/100) | **[Telecom Churn Prediction](#)** <br> Predije la tasa de cancelación de clientes utilizando modelos de machine learning y análisis predictivo. | Python, scikit-learn, pandas, matplotlib |
+| ![img](https://via.placeholder.com/100) | **[Online Fashion Store Dashboard](#)** <br> Creé un dashboard interactivo para analizar las ventas de una tienda de moda online. | Power BI, SQL, Tableau |
 
-- **[Online Fashion Store Dashboard](#)**
-  - Dashboard para analizar y mejorar el rendimiento de una tienda online de moda en Brasil.
 
 ## 💬 Socials
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [Marcelo Malte](www.linkedin.com/in/marcelo-malte-299157285)
