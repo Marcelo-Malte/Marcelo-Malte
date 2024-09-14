@@ -42,8 +42,8 @@ Aquí te presento algunos de mis proyectos más destacados:
 
 | **Proyecto** | **Descripción** | **Tecnologías** |
 | ------------ | ---------------- | --------------- |
-| ![img](https://github.com/Marcelo-Malte/img/blob/main/pngwing.com%20(8).png?raw=true) | **[Análisis de Tarifas para Empresa de Telecomunicaciones](#)** <br> Se analizó el comportamiento de clientes para comparar planes de prepago y respaldar decisiones comerciales con pruebas estadísticas. | Python, pandas, numpy, matplotlib, seaborn, scipy |
-| ![img](https://github.com/Marcelo-Malte/img/blob/main/WhatsApp%20Image%202024-07-20%20at%2011.01.53%20PM.jpeg?raw=true) | **[Análisis del Comportamiento de Usuarios en Aplicación de Productos](#)** <br> Análisis del embudo de ventas de una aplicación para identificar abandono del proceso de compra y evaluar un test A/A/B. | Python, pandas, matplotlib, scipy, análisis de embudo, A/A/B |
+| ![img](https://github.com/Marcelo-Malte/img/blob/main/imgp1.jpeg?raw=true) | **[Análisis de Tarifas para Empresa de Telecomunicaciones](#)** <br> Se analizó el comportamiento de clientes para comparar planes de prepago y respaldar decisiones comerciales con pruebas estadísticas. | Python, pandas, numpy, matplotlib, seaborn, scipy |
+| ![img](https://github.com/Marcelo-Malte/img/blob/main/imgp1.jpeg?raw=true) | **[Análisis del Comportamiento de Usuarios en Aplicación de Productos](#)** <br> Análisis del embudo de ventas de una aplicación para identificar abandono del proceso de compra y evaluar un test A/A/B. | Python, pandas, matplotlib, scipy, análisis de embudo, A/A/B |
 | ![img](https://via.placeholder.com/100) | **[Análisis de Ventas de Videojuegos](#)** <br> Análisis de ventas y reseñas de videojuegos para identificar patrones de éxito y realizar pruebas de hipótesis sobre las calificaciones entre plataformas y géneros. | Python, pandas, numpy, matplotlib, seaborn, scipy |
 
 
