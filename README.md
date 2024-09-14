@@ -55,3 +55,8 @@ Aquí te presento algunos de mis proyectos más destacados:
 
 ¡Espero que disfrutes explorando mi perfil y mis proyectos! 🚀
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+
+
