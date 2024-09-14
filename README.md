@@ -55,8 +55,10 @@ Aquí te presento algunos de mis proyectos más destacados:
 
 ¡Espero que disfrutes explorando mi perfil y mis proyectos! 🚀
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelo-malte&show_icons=true&locale=en&layout=compact" alt="marcelo-malte" /></p>
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-malte&show_icons=true&locale=en" alt="marcelo-malte" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-malte&" alt="marcelo-malte" /></p>
 
 
