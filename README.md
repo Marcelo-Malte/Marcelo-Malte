@@ -43,8 +43,8 @@ Aquí te presento algunos de mis proyectos más destacados:
 | **Proyecto** | **Descripción** | **Tecnologías** |
 | ------------ | ---------------- | --------------- | 
 | <img src="https://github.com/Marcelo-Malte/img/blob/main/imgp1.jpeg?raw=true" width="300" height="200" /> | **[Análisis de Tarifas para Empresa de Telecomunicaciones](#)** <br> Se analizó el comportamiento de clientes para comparar planes de prepago y respaldar decisiones comerciales con pruebas estadísticas. | Python, pandas, numpy, matplotlib, seaborn, scipy |
-| <img src="https://github.com/Marcelo-Malte/img/blob/main/Screenshot_34.png?raw=true" width="300" height="200" /> | **[Análisis del Comportamiento de Usuarios en Aplicación de Productos](#)** <br> Análisis del embudo de ventas de una aplicación para identificar abandono del proceso de compra y evaluar un test A/A/B. | Python, pandas, matplotlib, scipy, análisis de embudo, A/A/B |
-| <img src="https://github.com/Marcelo-Malte/img/blob/main/users.jpeg?raw=true" width="300" height="200" />  | **[Análisis de Ventas de Videojuegos](#)** <br> Análisis de ventas y reseñas de videojuegos para identificar patrones de éxito y realizar pruebas de hipótesis sobre las calificaciones entre plataformas y géneros. | Python, pandas, numpy, matplotlib, seaborn, scipy |
+| <img src="https://github.com/Marcelo-Malte/img/blob/main/users.jpeg?raw=true" width="300" height="200" /> | **[Análisis del Comportamiento de Usuarios en Aplicación de Productos](#)** <br> Análisis del embudo de ventas de una aplicación para identificar abandono del proceso de compra y evaluar un test A/A/B. | Python, pandas, matplotlib, scipy, análisis de embudo, A/A/B |
+| <img src="https://github.com/Marcelo-Malte/img/blob/main/Vgames.jpeg?raw=true" width="300" height="200" />  | **[Análisis de Ventas de Videojuegos](#)** <br> Análisis de ventas y reseñas de videojuegos para identificar patrones de éxito y realizar pruebas de hipótesis sobre las calificaciones entre plataformas y géneros. | Python, pandas, numpy, matplotlib, seaborn, scipy |
 
 
 ## 💬 Socials
